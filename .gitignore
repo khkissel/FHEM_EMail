@@ -1,0 +1,7 @@
+# Backup, Info and TempFiles
+*.bak
+/backups/
+/FHEM/backups/
+/infos/
+*.tmp
+*.temp

@@ -1,0 +1,2 @@
+# Alle Perl-Dateien sollen immer LF als Zeilenende haben, egal welches OS
+*.pm=auto eol=lf
